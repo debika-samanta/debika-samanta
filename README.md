@@ -35,4 +35,3 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=debika-samanta&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=debika-samanta&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=debika-samanta&show_icons=true&theme=radical)
