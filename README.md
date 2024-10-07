@@ -9,7 +9,5 @@
 
 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/debika-samanta-660a361a8/).
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=debika-samanta&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=debika-samanta&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=debika-samanta&layout=compact&theme=radical)
