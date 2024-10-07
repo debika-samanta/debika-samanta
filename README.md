@@ -29,8 +29,7 @@
 - **Cross-Chain Communication**: Enabling isolated blockchains to communicate and execute smart contracts across different networks.
 - **Privacy and Security**: Researching **privacy-preserving** authentication and data management techniques for distributed systems.
 
-📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/debika-samanta-660a361a8/) | [Twitter](your-twitter-link)
-
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/debika-samanta-660a361a8/) 
 ---
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=debika-samanta&theme=radical)
