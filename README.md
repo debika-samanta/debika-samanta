@@ -148,10 +148,6 @@ Worked with:
 ## 🎓 Education
 
 **M.Tech (Research) — IIT Hyderabad**
-CGPA: **8.06/10**
-
-**B.E. — Government Engineering College, Gandhinagar**
-CGPA: **8.82/10**
 
 ---
 
