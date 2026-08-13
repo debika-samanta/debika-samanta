@@ -1,36 +1,168 @@
 # Hi, I'm Debika Samanta 👋
 
-🔗 I'm a **Blockchain Developer** specializing in **Interblockchain Communication (IBC)**, **IoT**, and **Computer Networks**. My goal is to create **secure and interoperable blockchain networks** that connect isolated platforms and ensure seamless cross-chain communication.
+💻 **Software & Systems Engineer** working on **distributed systems, cloud-native infrastructure, networking, and secure communication systems**.
 
-💡 I am passionate about:
-- **IBC Protocols**: Developing solutions to enhance **trust and identity verification** across permissioned and public blockchains.
-- **Cross Chain Smart Contract Invocation**: Implementing smart contract invocations across isolated blockchain platforms.
-- **Blockchain for IoT**: Leveraging blockchain for IoT device authentication, data sharing, and security in decentralized networks.
-  
+Currently, I work as a **Scientist B at C-DOT**, where I work on **Mission Critical Communication (MCX) systems**, focusing on containerized services, SIP-based communication, high availability, load balancing, service integration, and distributed infrastructure.
 
-🚀 **Current Projects**:
-- 🛡️ [**Multichannel Architecture of Hyperledger Fabric for Data Privacy**](https://github.com/debika-samanta/MultichannelHLF): A project focused on utilizing the **multichannel architecture** in **Hyperledger Fabric** to ensure enhanced **data privacy** and segregation between different blockchain channels while enabling secure smart contract invocation.
-- 🌐 [**MQTT for IoT Data Transmission**](https://github.com/debika-samanta/Mqtt-Bord-game-AWS): Leveraging the **MQTT** protocol to enable efficient, asynchronous data transmission using the **Pub/Sub** model in decentralized IoT networks.
--  📡 [**Adaptive EdgeCache for 5G Networks**](https://github.com/debika-samanta/GnodeB_Cache): Strategies for **network-level caching** in 5G infrastructures.
-- 🔐 [**MQTT for IoT Data Transmission with DTLS Security**](https://github.com/debika-samanta/SEcure_chat): Implementing **MQTT** for efficient, asynchronous data transmission in IoT networks using the **Pub/Sub** model, secured with **DTLS** to ensure confidentiality and integrity of data in decentralized environments.
-
-
-🔧 **Tech Stack**:
-- **Blockchain**: Ethereum, Hyperledger Fabric, IBC protocols
-- **IoT Protocols**: MQTT
-- **Networks**: TCP/IP, SDN, NFV, 5G
-- **Languages**: Python, C++, Solidity, JavaScript, HTML.
-- **DevOps**: Docker, Kubernetes.
+My background also includes **Inter-Blockchain Communication (IBC)**, blockchain interoperability, IoT communication, and network security.
 
 ---
 
-### 💼 **Professional Interests**:
-- **IoT and Blockchain**: Exploring how blockchain can enhance the security and scalability of IoT networks, enabling trustless interactions between devices.
-- **Cross-Chain Communication**: Enabling isolated blockchains to communicate and execute smart contracts across different networks.
-- **Privacy and Security**: Researching **privacy-preserving** authentication and data management techniques for distributed systems.
+## 🚀 What I Work On
 
-📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/debika-samanta-660a361a8/) 
+* 🛰️ **Distributed & Communication Systems** — MCX, SIP, Kamailio, RTP, FreeSWITCH
+* ☁️ **Cloud-Native Systems** — Docker, Kubernetes, containerized microservices
+* 🔄 **High Availability & Load Balancing** — HAProxy, Keepalived, failover architectures
+* 🌐 **Networking & Protocols** — TCP/IP, SIP, MQTT, 5G, SDN/NFV
+* 🔐 **Security & Identity** — Keycloak, authentication, authorization, secure communication
+* 🗄️ **Distributed Databases** — MariaDB/MySQL, PostgreSQL, database replication
+* ⛓️ **Blockchain & Interoperability** — IBC, Hyperledger Fabric, Ethereum
+* 🤖 **AI/ML & MLOps** — exploring production-oriented ML systems, model integration, and cloud-native AI applications
+
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=debika-samanta&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=debika-samanta&layout=compact&theme=radical)
+## 🔬 Research Background
+
+My research work focused on **Inter-Blockchain Communication (IBC)** and enabling secure communication between otherwise isolated blockchain networks.
+
+### 🔗 Inter-Blockchain Communication
+
+My M.Tech research at **IIT Hyderabad** focused on:
+
+* Privacy-preserving authentication in IBC
+* Trust and identity verification across blockchain networks
+* Cross-chain communication and interoperability
+* Secure smart contract invocation
+* Blockchain-based distributed systems
+
+I also worked as a **Research Assistant with DENSO Global, Japan**, contributing to research around blockchain interoperability.
+
+📄 Research work: **Privacy Preservation and Authentication in IBC**
+
+---
+
+## 🛠️ Featured Projects
+
+### 🌐 NutriWise — Cloud-Native Health & AI Platform
+
+A full-stack application built around **Spring Boot, MariaDB, Kafka, WebSockets, Kubernetes, and AI-powered services**.
+
+Exploring:
+
+* Microservice architecture
+* Kubernetes deployment
+* Real-time data streaming
+* AI-powered food analysis
+* Event-driven architecture
+* Cloud-native application design
+
+---
+
+### 🛰️ MCX / Communication Systems
+
+Working on production-oriented communication infrastructure involving:
+
+* **Kamailio**
+* **RTP Engine**
+* **FreeSWITCH**
+* **HAProxy**
+* **Keepalived**
+* **Keycloak**
+* **Docker / Docker Compose**
+* **MariaDB / PostgreSQL**
+* SIP and XCAP-based services
+
+Focus areas include **high availability, service orchestration, load balancing, authentication, replication, and fault-tolerant distributed systems**.
+
+---
+
+### ⛓️ Blockchain & IBC Research
+
+Previously developed projects involving:
+
+* Hyperledger Fabric multichannel architecture
+* Blockchain-based data privacy
+* Cross-chain communication
+* Smart contract interoperability
+* Privacy-preserving authentication
+
+---
+
+### 📡 IoT & Network Systems
+
+Worked with:
+
+* MQTT-based communication
+* DTLS-secured IoT communication
+* 5G edge caching
+* Network-level optimization
+* Distributed IoT architectures
+
+---
+
+## 🔧 Tech Stack
+
+### Languages
+
+`C` · `C++` · `Java` · `Python` · `JavaScript` · `SQL` · `Solidity`
+
+### Backend & Distributed Systems
+
+`Spring Boot` · `REST APIs` · `WebSockets` · `Kafka` · `Microservices`
+
+### Cloud & DevOps
+
+`Docker` · `Docker Compose` · `Kubernetes` · `Jenkins` · `Linux` · `Shell Scripting`
+
+### Networking & Communication
+
+`TCP/IP` · `SIP` · `Kamailio` · `RTP` · `FreeSWITCH` · `MQTT` · `5G` · `SDN` · `NFV`
+
+### Infrastructure & Security
+
+`HAProxy` · `Keepalived` · `Keycloak` · `TLS/DTLS` · `Authentication` · `Authorization`
+
+### Databases
+
+`MariaDB` · `MySQL` · `PostgreSQL` · `MongoDB` · `SQLite`
+
+### Blockchain
+
+`IBC` · `Hyperledger Fabric` · `Ethereum` · `Geth`
+
+---
+
+## 🎯 Areas I'm Interested In
+
+* **Distributed Systems & Infrastructure**
+* **Cloud-Native Architecture**
+* **MLOps & AI Infrastructure**
+* **Networking & Communication Systems**
+* **High Availability & Fault-Tolerant Systems**
+* **DevOps & Kubernetes**
+* **Secure Distributed Systems**
+* **Blockchain Interoperability**
+
+---
+
+## 🎓 Education
+
+**M.Tech (Research) — IIT Hyderabad**
+CGPA: **8.06/10**
+
+**B.E. — Government Engineering College, Gandhinagar**
+CGPA: **8.82/10**
+
+---
+
+## 📫 Let's Connect
+
+🔗 **LinkedIn:** [linkedin.com/in/debika-samanta-660a361a8](https://www.linkedin.com/in/debika-samanta-660a361a8/)
+
+💻 **GitHub:** [github.com/debika-samanta](https://github.com/debika-samanta)
+
+---
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=debika-samanta\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=debika-samanta\&layout=compact\&theme=radical)
